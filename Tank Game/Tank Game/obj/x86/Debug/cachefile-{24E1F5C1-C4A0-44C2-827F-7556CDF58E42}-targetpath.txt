@@ -1,0 +1,23 @@
+Content\Arial.xnb
+Content\Heavy Tank.xnb
+Content\Medium Tank.xnb
+Content\Tank Hunter.xnb
+Content\A.xnb
+Content\B.xnb
+Content\Y.xnb
+Content\Splash.xnb
+Content\12mm.xnb
+Content\3mm.xnb
+Content\8mm.xnb
+Content\hole.xnb
+Content\Heavy Tank.png
+Content\Medium Tank.png
+Content\Tank Hunter.png
+Content\A.png
+Content\B.png
+Content\Y.png
+Content\Splash.png
+Content\12mm.png
+Content\3mm.png
+Content\8mm.png
+Content\hole.png

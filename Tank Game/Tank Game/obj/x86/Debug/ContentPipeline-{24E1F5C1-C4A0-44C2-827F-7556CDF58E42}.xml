@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\Arial.xnb</Output>
+      <Time>2014-01-19T17:51:17.3178302+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Heavy Tank.png</Source>
+      <Name>Heavy Tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\Heavy Tank.xnb</Output>
+      <Time>2014-01-19T19:02:40.8057641+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Medium Tank.png</Source>
+      <Name>Medium Tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\Medium Tank.xnb</Output>
+      <Time>2014-01-19T19:02:40.8102647+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Tank Hunter.png</Source>
+      <Name>Tank Hunter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\Tank Hunter.xnb</Output>
+      <Time>2014-01-19T19:02:40.8147653+00:00</Time>
+    </Item>
+    <Item>
+      <Source>A.png</Source>
+      <Name>A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\A.xnb</Output>
+      <Time>2014-01-19T20:00:23.7420012+00:00</Time>
+    </Item>
+    <Item>
+      <Source>B.png</Source>
+      <Name>B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\B.xnb</Output>
+      <Time>2014-01-19T20:00:23.7465018+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Y.png</Source>
+      <Name>Y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\Y.xnb</Output>
+      <Time>2014-01-19T20:00:23.7510023+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Splash.png</Source>
+      <Name>Splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\Splash.xnb</Output>
+      <Time>2014-01-19T23:21:27.6954287+00:00</Time>
+    </Item>
+    <Item>
+      <Source>12mm.png</Source>
+      <Name>12mm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\12mm.xnb</Output>
+      <Time>2014-02-02T21:36:46.4763458+00:00</Time>
+    </Item>
+    <Item>
+      <Source>3mm.png</Source>
+      <Name>3mm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\3mm.xnb</Output>
+      <Time>2014-02-02T21:36:52.9946735+00:00</Time>
+    </Item>
+    <Item>
+      <Source>8mm.png</Source>
+      <Name>8mm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\8mm.xnb</Output>
+      <Time>2014-02-02T21:36:53.0016744+00:00</Time>
+    </Item>
+    <Item>
+      <Source>hole.png</Source>
+      <Name>hole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 174, 201, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\hole.xnb</Output>
+      <Time>2014-02-04T20:16:04.5398775+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{24E1F5C1-C4A0-44C2-827F-7556CDF58E42}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Adam\Documents\Visual Studio 2010\Projects\CS\Tank Game\Tank Game\Tank Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-08T20:23:18.4813913+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

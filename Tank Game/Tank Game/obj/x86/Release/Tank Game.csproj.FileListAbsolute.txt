@@ -1,0 +1,29 @@
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Arial.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Heavy Tank.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Medium Tank.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Tank Hunter.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\A.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\B.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Y.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Splash.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Heavy Tank.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Medium Tank.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Tank Hunter.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Tank Game.exe
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Tank Game.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\obj\x86\Release\Tank Game.exe
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\obj\x86\Release\Tank Game.pdb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\12mm.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\3mm.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\8mm.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\hole.xnb
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\A.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\B.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Y.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\Splash.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\12mm.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\3mm.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\8mm.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\Content\hole.png
+C:\Users\Adam\documents\visual studio 2010\Projects\Tank Game\Tank Game\Tank Game\bin\x86\Release\TankData.sdf
